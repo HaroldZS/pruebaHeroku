@@ -1,1 +1,1 @@
-web: gunicorn Munay.wsgi --log-file -
+web: gunicorn Munay.wsgi
